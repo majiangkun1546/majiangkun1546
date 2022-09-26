@@ -1,5 +1,4 @@
-Hi, I’m Majiangkun
-I'm an engineer about Honeywell Building Automation System
+My name’s Majiangkun
 works :Niagara\Metasys\Insight\INNCOM……
 Email: majiangkun1546@163.com
 <!---
